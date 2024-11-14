@@ -2,7 +2,7 @@
 
 ## About
 
-**Squad-SDK-DAT** are blueprints designed to work with the Squad SDK 4.27.2.
+**Squad-SDK-DAT**: blueprints designed to work with the Squad SDK 4.27.2.
 
 Key features:
 - **Feature 1:** Spawn player directly in drivers seat of the M1A2 tank.
