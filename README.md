@@ -5,7 +5,7 @@
 **Squad-SDK-DAT** are blueprints designed to work with the Squad SDK 4.27.2.
 
 Key features:
-- **Feature 1:** Spawn player directly in drivers seat of the M1A1 tank.
+- **Feature 1:** Spawn player directly in drivers seat of the M1A2 tank.
 - **Feature 2:** Engine will be running.
 - **Feature 3:** Player can switch between driver's seat and gunner's seat with right mouse click.
 
@@ -19,3 +19,4 @@ To get started with **Squad-SDK-DAT**, follow the steps below:
 
 2. **Remove zoom as input function from project settings, or whatever is bound to right mouse click.**
  
+2. **Edit seat change delay in worldsettings to simulate ADS.**
