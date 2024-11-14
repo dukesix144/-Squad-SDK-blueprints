@@ -1,7 +1,3 @@
-# Project Name
-
-## About
-
 **Squad-SDK-DAT**: blueprints designed to work with the Squad SDK 4.27.2.
 
 Key features:
@@ -19,4 +15,6 @@ To get started with **Squad-SDK-DAT**, follow the steps below:
 
 2. **Remove zoom as input function from project settings, or whatever is bound to right mouse click.**
  
-2. **Edit seat change delay in worldsettings to simulate ADS.**
+3. **Edit seat change delay in worldsettings to simulate ADS.**
+
+<img src="https://github.com/dukesix144/Squad-SDK-DAT/blob/main/blueprint.png">
