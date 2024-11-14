@@ -2,7 +2,7 @@
 
 ## About
 
-This project, **Squad-SDK-DAT**, is designed to work with the Squad SDK 4.27.2. It was built as a custom gamemode.
+**Squad-SDK-DAT** are blueprints designed to work with the Squad SDK 4.27.2.
 
 Key features:
 - **Feature 1:** Spawn player directly in drivers seat of the M1A1 tank.
