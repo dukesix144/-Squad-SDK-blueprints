@@ -11,9 +11,9 @@ Key features:
 
 ## Usage
 
-To get started with **Project Name**, follow the steps below:
+To get started with **Squad-SDK-blueprints**, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/dukesix144/-Squad-SDK-blueprints.git
 
